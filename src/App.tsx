@@ -15,7 +15,7 @@ export default function App() {
         </li> */}
         <li>
         <EmbedPDF companyIdentifier="dundermifflin">
-            <center><button>Custom PDF Editor</button></center>
+           <button>Custom PDF Editor</button>
         </EmbedPDF>
         </li>
       </ul>
